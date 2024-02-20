@@ -9,12 +9,12 @@
   "appType": "APP",
   "name": "Maintenance app",
   "version": "32.23.1",
-  "description": "DataOrb Maintenance app",
+  "description": "DHIS2 Maintenance app",
   "icons": {
     "48": "icon.png"
   },
   "developer": {
     "name": "Mark Polak"
   },
-  "manifest_generated_at": "Wed May 10 2023 07:14:06 GMT+0000 (Coordinated Universal Time)"
+  "manifest_generated_at": "Wed Nov 22 2023 11:14:30 GMT+0000 (Coordinated Universal Time)"
 }
