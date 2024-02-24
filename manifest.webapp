@@ -7,9 +7,9 @@
     }
   },
   "appType": "APP",
-  "name": "Maintenance app",
+  "name": "Maintenance Pro",
   "version": "32.23.1",
-  "description": "DHIS2 Maintenance app",
+  "description": "DataOrb Maintenance Pro",
   "icons": {
     "48": "icon.png"
   },
